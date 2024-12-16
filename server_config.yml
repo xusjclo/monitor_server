@@ -1,0 +1,14 @@
+# 默认账号配置
+default_credentials:
+  username: root
+  password: 自己定义
+  port: 22222
+
+# 服务器列表
+servers:
+    # 使用默认账号密码
+  # - host: 192.168.1.2
+  #   username: custom_user  # 单独指定用户名
+  #   password: custom_pass  # 单独指定密码
+  # - host: 192.168.1.3
+  #   # 使用默认账号密码
